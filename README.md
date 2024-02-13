@@ -9,18 +9,16 @@ C libraries.
 
 Clone repository and open amiral_sunk folder.
 Game is only tested on Linux. If you use Linux, just compile and run it.
-...
-$ gcc -o amiral_sunk main.c
-...
+
+    $ gcc -o amiral_sunk main.c
 
 ---
 
 ## Usage
 
 In amiral_sunk/ folder
-...
-$ ./amiral_sunk
-...
+
+    $ ./amiral_sunk
 
 ---
 
